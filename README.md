@@ -1,7 +1,9 @@
 A Mood Tracker App helps users record and analyze their emotions daily.
 It can help them recognize emotional patterns, improve mental well-being, and identify what triggers certain moods.
 
-Main Features
+
+
+🌈 Main Features
 
 1. Daily Mood Logging
 
@@ -42,7 +44,9 @@ Use sentiment analysis on notes to detect mood automatically.
 Suggest positivity quotes or activities based on mood.
 
 
-Tech Stack (Flutter version)
+
+
+🏗️ Tech Stack (Flutter version)
 
 Part	Tool
 
@@ -54,7 +58,7 @@ Authentication (optional)	Firebase Auth (Google Sign-In)
 
 
 
-App Flow
+📱 App Flow
 
 1. Splash Screen → Onboarding → Home Page
 
